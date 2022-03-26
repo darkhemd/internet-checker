@@ -2,4 +2,4 @@
 Checks if internet connection is available.
 
 
-Tool checks with pings if your internet-connection is still running. If not there is a message been printed to the logfile with Timestamp (dd/mm hh::mm::ss)
+The program uses pings to check whether there is an Internet connection. If not, a message is written to the log with a timestamp (dd/mm hh::mm::ss)
